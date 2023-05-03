@@ -3,4 +3,6 @@ Este repositório serve para colocar os ficheiros do trabalho da disciplina de W
 
 AUTORES: Francisco Feuermann / Sofia Louro
 
-TEMA
+TEMA:
+
+E descrever um pouco a ideia do site.
