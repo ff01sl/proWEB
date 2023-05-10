@@ -1,0 +1,23 @@
+/* Projeto */
+
+body{ 
+    background-color: orangered;
+}
+header{
+    display: flex;
+    background-color: rgb(111, 45, 199);
+
+justify-content: center;
+    
+    
+
+}
+
+h1{ 
+    align-items: center;
+    color: orangered;
+
+    
+
+
+}
